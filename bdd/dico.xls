@@ -1,0 +1,118 @@
+﻿Session;1
+Statut de l’établissement de la filière de formation (public, privé…);2
+Code UAI de l'établissement;3
+Établissement;4
+Code départemental de l’établissement;5
+Département de l’établissement;6
+Région de l’établissement;7
+Académie de l’établissement;8
+Commune de l’établissement;9
+Filière de formation;10
+Sélectivité;11
+Filière de formation très agrégée;12
+Filière de formation détaillée;13
+Filière de formation;14
+Filière de formation détaillée bis;15
+Filière de formation très détaillée;16
+Coordonnées GPS de la formation;17
+Capacité de l’établissement par formation;18
+Effectif total des candidats pour une formation;19
+Dont effectif des candidates pour une formation;20
+Effectif total des candidats en phase principale;21
+Dont effectif des candidats ayant postulé en internat;22
+Effectif des candidats néo bacheliers généraux en phase principale;23
+Dont effectif des candidats boursiers néo bacheliers généraux en phase principale;24
+Effectif des candidats néo bacheliers technologiques en phase principale;25
+Dont effectif des candidats boursiers néo bacheliers technologiques en phase principale;26
+Effectif des candidats néo bacheliers professionnels en phase principale;27
+Dont effectif des candidats boursiers néo bacheliers professionnels en phase principale;28
+Effectif des autres candidats en phase principale;29
+Effectif total des candidats en phase complémentaire;30
+Effectif des candidats néo bacheliers généraux en phase complémentaire;31
+Effectif des candidats néo bacheliers technologique en phase complémentaire;32
+Effectif des candidats néo bacheliers professionnels en phase complémentaire;33
+Effectifs des autres candidats en phase complémentaire;34
+Effectif total des candidats classés par l’établissement en phase principale;35
+Effectif des candidats classés par l’établissement en phase complémentaire;36
+Effectif des candidats classés par l’établissement en internat (CPGE);37
+Effectif des candidats classés par l’établissement hors internat (CPGE);38
+Effectif des candidats néo bacheliers généraux classés par l’établissement;39
+Dont effectif des candidats boursiers néo bacheliers généraux classés par l’établissement;40
+Effectif des candidats néo bacheliers technologiques classés par l’établissement;41
+Dont effectif des candidats boursiers néo bacheliers technologiques classés par l’établissement;42
+Effectif des candidats néo bacheliers professionnels classés par l’établissement;43
+Dont effectif des candidats boursiers néo bacheliers professionnels classés par l’établissement;44
+Effectif des autres candidats classés par l’établissement;45
+Effectif total des candidats ayant reçu une proposition d’admission de la part de l’établissement;46
+Effectif total des candidats ayant accepté la proposition de l’établissement (admis);47
+Dont effectif des candidates admises;48
+Effectif des admis en phase principale;49
+Effectif des admis en phase complémentaire;50
+Dont effectif des admis ayant reçu leur proposition d’admission à l'ouverture de la procédure principale;51
+Dont effectif des admis ayant reçu leur proposition d’admission avant le baccalauréat;52
+Dont effectif des admis ayant reçu leur proposition d’admission avant la fin de la procédure principale;53
+Dont effectif des admis en internat;54
+Dont effectif des admis boursiers néo bacheliers;55
+Effectif des admis néo bacheliers;56
+Effectif des admis néo bacheliers généraux;57
+Effectif des admis néo bacheliers technologiques;58
+Effectif des admis néo bacheliers professionnels;59
+Effectif des autres candidats admis;60
+Dont effectif des admis néo bacheliers sans information sur la mention au bac;61
+Dont effectif des admis néo bacheliers sans mention au bac;62
+Dont effectif des admis néo bacheliers avec mention Assez Bien au bac;63
+Dont effectif des admis néo bacheliers avec mention Bien au bac;64
+Dont effectif des admis néo bacheliers avec mention Très Bien au bac;65
+Dont effectif des admis néo bacheliers avec mention Très Bien avec félicitations au bac;66
+Effectif des admis néo bacheliers généraux ayant eu une mention au bac;67
+Effectif des admis néo bacheliers technologiques ayant eu une mention au bac;68
+Effectif des admis néo bacheliers professionnels ayant eu une mention au bac;69
+Dont effectif des admis issus du même établissement (BTS/CPGE);70
+Dont effectif des admises issues du même établissement (BTS/CPGE);71
+Dont effectif des admis issus de la même académie;72
+Dont effectif des admis issus de la même académie (Paris/Créteil/Versailles réunies);73
+% d’admis ayant reçu leur proposition d’admission à l'ouverture de la procédure principale;74
+% d’admis ayant reçu leur proposition d’admission avant le baccalauréat;75
+% d’admis ayant reçu leur proposition d’admission avant la fin de la procédure principale;76
+% d’admis dont filles;77
+% d’admis néo bacheliers issus de la même académie;78
+% d’admis néo bacheliers issus de la même académie (Paris/Créteil/Versailles réunies);79
+% d’admis néo bacheliers issus du même établissement (BTS/CPGE);80
+% d’admis néo bacheliers boursiers;81
+% d’admis néo bacheliers;82
+% d’admis néo bacheliers sans information sur la mention au bac;83
+% d’admis néo bacheliers sans mention au bac;84
+% d’admis néo bacheliers avec mention Assez Bien au bac;85
+% d’admis néo bacheliers avec mention Bien au bac;86
+% d’admis néo bacheliers avec mention Très Bien au bac;87
+% d’admis néo bacheliers avec mention Très Bien avec félicitations au bac;88
+% d’admis néo bacheliers généraux;89
+Dont % d’admis avec mention (BG);90
+% d’admis néo bacheliers technologiques;91
+Dont % d’admis avec mention (BT);92
+% d’admis néo bacheliers professionnels;93
+Dont % d’admis avec mention (BP);94
+Effectif des candidats en terminale générale ayant reçu une proposition d’admission de la part de l’établissement;95
+Dont effectif des candidats boursiers en terminale générale ayant reçu une proposition d’admission de la part de l’établissement;96
+Effectif des candidats en terminale technologique ayant reçu une proposition d’admission de la part de l’établissement;97
+Dont effectif des candidats boursiers en terminale technologique ayant reçu une proposition d’admission de la part de l’établissement;98
+Effectif des candidats en terminale professionnelle ayant reçu une proposition d’admission de la part de l’établissement;99
+Dont effectif des candidats boursiers en terminale générale professionnelle ayant reçu une proposition d’admission de la part de l’établissement;100
+Effectif des autres candidats ayant reçu une proposition d’admission de la part de l’établissement;101
+Regroupement 1 effectué par les formations pour les classements;102
+Rang du dernier appelé du groupe 1;103
+Regroupement 2 effectué par les formations pour les classements;104
+Rang du dernier appelé du groupe 2;105
+Regroupement 3 effectué par les formations pour les classements;106
+Rang du dernier appelé du groupe 3;107
+list_com;108
+tri;109
+cod_aff_form;110
+Concours communs et banque d'épreuves;111
+Lien de la formation sur la plateforme Parcoursup;112
+Taux d’accès;113
+Part des terminales générales qui étaient en position de recevoir une proposition en phase principale;114
+Part des terminales technologiques qui étaient en position de recevoir une proposition en phase principale;115
+Part des terminales professionnelles qui étaient en position de recevoir une proposition en phase principale;116
+etablissement_id_paysage;117
+composante_id_paysage;118
